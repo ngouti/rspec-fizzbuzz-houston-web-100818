@@ -8,6 +8,6 @@ def fizzbuzz(x)
      "Buzz"
     
   else 
-     "FizzBuzz"
+    puts  "FizzBuzz"
   end
 end
